@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: lightgreen;
+}
+nav{
+   width: 100%; 
+   background: green;
+   overflow: auto;
+}
+ul{
+    padding: 0%;
+    margin: 0 0 0 150px; 
+    list-style:none;
+}
+li{
+    float: left;
+}
+Logo{
+    position: absolute;
+    margin: top 15px;
+    margin-left: 10px;
+}
+nav a{
+    width: 70px;
+    display: block;
+    padding: 15px;
+}
